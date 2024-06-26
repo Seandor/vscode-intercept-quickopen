@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.90.0"
   },
+  "publisher": "Seandor",
   "repository": {
     "type": "git",
     "url": "https://github.com/Seandor/vscode-intercept-quickopen.git"
